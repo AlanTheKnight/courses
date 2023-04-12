@@ -1,46 +1,46 @@
-# Программирование на Golang
+# Golang Programming
 
 ![Golang badge](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-Ссылка на курс: https://stepik.org/course/54403/
+Course link: [Stepik](https://stepik.org/course/54403/)
 
-## Прогресс по курсу
+## Course progress
 
-### Введение в основы
+### Introduction
 
-- [x] О курсе
-- [x] О Go
-- [x] Первая программа  
-- [x] Типы данных
-- [x] Переменные и арифметические операции, ввод/вывод данных
-- [x] Комментарии
-- [x] Константы
-- [x] Условные выражения
-- [x] Условные конструкции
-- [x] Циклы  
-- [x] Форматированный вывод
-- [x] Массивы и срезы
-- [ ] Решение задач
+- [x] About the course
+- [x] About Go
+- [x] First program
+- [x] Data types
+- [x] Variables, arithmetic operations, input/output
+- [x] Comments
+- [x] Constants
+- [x] Conditional statements
+- [x] Conditional constructions
+- [x] Loops
+- [x] Formatted output
+- [x] Arrays and slices
+- [ ] Problems
 
-### Функции, структуры, указатели и другое
+### Functions, structures and pointers
 
-- [ ] Функции
-- [ ] Пакеты
-- [ ] Указатели
-- [ ] Структуры
-- [ ] Строки
-- [ ] Обработка ошибок
-- [ ] Решение задач
+- [ ] Functions
+- [ ] Packages
+- [ ] Pointers
+- [ ] Structures
+- [ ] Strings
+- [ ] Hangling exceptions
+- [ ] Problems
 
-### Map, файлы, интерфейсы, многопоточность и многое другое
+### Map, files, interfaces, parallelism
 
-- [ ] Отображения (map)
-- [ ] Преобразование типов данных
-- [ ] Анонимные функции
-- [ ] Интерфейсы
-- [ ] Работа с файлами
+- [ ] Map
+- [ ] Data types convertion
+- [ ] Anonymous functions
+- [ ] Interfaces
+- [ ] Working with files
 - [ ] JSON
-- [ ] Работа с датой и временем
-- [ ] Параллелизм ч.1
-- [ ] Параллелизм ч.2
-- [ ] Заключение
+- [ ] Working with date and time
+- [ ] Parallelism
+- [ ] Parallelism
+- [ ] Conclusion
